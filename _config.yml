@@ -1,0 +1,12 @@
+pygments: true
+auto: true
+exclude: 
+  - tools
+  - lib
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - config.rb
+  - sass
+  - drafts
+  - trunk
